@@ -1,0 +1,14 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "father build",
+    "doc:dev": "father doc dev",
+    "doc:build": "father doc build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "father": "^2.29.3"
+  }
+}

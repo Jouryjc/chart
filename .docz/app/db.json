@@ -1,0 +1,29 @@
+{
+  "config": {
+    "title": "Chart",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "mode": "dark"
+    },
+    "separator": "-",
+    "typescript": false,
+    "theme": "C:/Jouryjc/chart/node_modules/docz-theme-umi/es/index.js",
+    "base": "src",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "props": [],
+  "entries": []
+}
