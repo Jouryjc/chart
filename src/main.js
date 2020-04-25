@@ -1,2 +1,7 @@
-import a from './chart/bar';
-console.log(a);
+import barOption from './chart/bar';
+import pieOption from './chart/pie';
+
+export {
+    barOption,
+    pieOption
+};

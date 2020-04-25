@@ -8,12 +8,11 @@
     "native": false,
     "codeSandbox": true,
     "themeConfig": {
-      "mode": "dark"
+      "mode": "light"
     },
     "separator": "-",
     "typescript": false,
     "theme": "C:/Jouryjc/chart/node_modules/docz-theme-umi/es/index.js",
-    "base": "src",
     "plugins": [
       {},
       {},
@@ -25,5 +24,46 @@
     ]
   },
   "props": [],
-  "entries": []
+  "entries": [
+    {
+      "key": "doc/bar.mdx",
+      "value": {
+        "name": "柱状图",
+        "router": "bar",
+        "id": "7962c8a583100aaa348aaf9fcfc2427e",
+        "filepath": "doc/bar.mdx",
+        "link": "",
+        "slug": "doc-bar",
+        "route": "/doc-bar",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "bar",
+            "depth": 1,
+            "value": "Bar"
+          }
+        ]
+      }
+    },
+    {
+      "key": "doc/pie.mdx",
+      "value": {
+        "name": "饼图",
+        "router": "pie",
+        "id": "d78ba30de63d8a31e3f30db7b070b941",
+        "filepath": "doc/pie.mdx",
+        "link": "",
+        "slug": "doc-pie",
+        "route": "/doc-pie",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "bar",
+            "depth": 1,
+            "value": "Bar"
+          }
+        ]
+      }
+    }
+  ]
 }

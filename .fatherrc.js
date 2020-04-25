@@ -8,8 +8,8 @@ export default {
     },
     doc: {
         themeConfig: {
-            mode: 'dark'
+            mode: 'light'
         },
-        base: 'src'
+        base: 'doc'
     }
 }

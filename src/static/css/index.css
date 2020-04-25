@@ -1,3 +1,8 @@
 :root {
     --color-green: green;
+    --color-red: red;
+}
+
+.red {
+    color: var(--color-red);
 }

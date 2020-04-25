@@ -9,6 +9,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "echarts-for-react": "^2.0.15-beta.1",
     "father": "^2.29.3"
+  },
+  "devDependencies": {
+    "echarts": "^4.7.0"
   }
 }

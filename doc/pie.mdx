@@ -1,0 +1,17 @@
+---
+name: 饼图
+router: 'pie'
+---
+
+import { Playground } from 'docz';
+import ReactEcharts from 'echarts-for-react';
+import pieOptions from '../src/chart/pie';
+
+# Bar
+<Playground>
+    {() => {
+        return (
+            <ReactEcharts option={pieOptions} />
+        );
+    }}
+</Playground>
