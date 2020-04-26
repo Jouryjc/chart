@@ -1,6 +1,6 @@
-import '../static/css/index.css';
+require('../static/css/index.css');
 
-const option = {
+module.exports = {
     backgroundColor: "#38445E",
     grid: {
         left: '12%',
@@ -98,5 +98,3 @@ const option = {
         z: 10
     }]
 };
-
-export default option;

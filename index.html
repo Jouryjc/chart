@@ -8,13 +8,5 @@
 <body>
     <div id="main" style="width: 600px; height: 800px;"></div>
     <script src="./node_modules/echarts/dist/echarts.min.js"></script>
-    <script type="module" src="dist/main.esm.js"></script>
-    <script type="module">
-        import { barOption } from './dist/main.esm.js';
-        var myChart = echarts.init(document.getElementById('main'));
-
-        console.log(barOption);
-        myChart.setOption(barOption);
-    </script>
 </body>
 </html>
